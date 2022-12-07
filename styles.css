@@ -48,7 +48,7 @@ input, textarea, select{
     
 }
 
-#name, #email, #age{
+#name, #email, #number{
 
     width: 100%;
 }
